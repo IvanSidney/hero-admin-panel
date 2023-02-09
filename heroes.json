@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Unknown hero",
+      "description": "Hiding in the shadows",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Sea hero",
+      "description": "Like Aquaman, but not from DC",
+      "element": "water"
+    },
+    {
+      "id": "c1f80d64-e20f-4c20-9c48-77e34ca2b0d7",
+      "name": "Thor",
+      "description": "Shoot lightning",
+      "element": "wind"
+    },
+    {
+      "id": "99c9c6d6-caf1-4376-ba8f-a5ff8da32682",
+      "name": "32423",
+      "description": "324234",
+      "element": "fire"
+    },
+    {
+      "id": "e2836bde-154b-46ab-9e9a-451377be967f",
+      "name": "we4ftwg",
+      "description": "w4egwge",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Eart",
+      "className": "btn-secondary"
+    }
+  ]
+}
