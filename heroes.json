@@ -25,40 +25,39 @@
       "element": "fire"
     },
     {
-      "id": "d74bca7c-3f0a-4e36-b556-554dbc54b77c",
-      "name": "23r",
-      "description": "23e23tr",
-      "element": "earth"
-    },
-    {
-      "id": "0866794c-4aea-4703-ba12-e76fb74c72e7",
-      "name": "xgfhds",
-      "description": "fghgha",
+      "id": "c96de317-f1d4-4111-8b72-c98d1f484881",
+      "name": "ghdsfbb",
+      "description": "fdndfbn",
       "element": "water"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "All",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Fire",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Water",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Wind",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Eart",
       "className": "btn-secondary"
